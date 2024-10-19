@@ -24,7 +24,7 @@ Twilio API have been used to Make SMS connectivity to patients possible in case 
 | API | Twilio cloud API|      
 
 
-## Authors
+## Author
 
 - [@sandipanrakshit34](https://github.com/sandipanrakshit34)
 
